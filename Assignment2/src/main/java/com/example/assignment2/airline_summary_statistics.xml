@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Summary>
+   <Stat>
+      <Name> avail_seat_km_per_week </Name>
+      <Min> 2.59373346E8 </Min>
+      <Max> 7.139291291E9 </Max>
+      <Average> 1.384621304732143E9 </Average>
+   </Stat>
+   <Stat>
+      <Name> incidents_85_99 </Name>
+      <Min> 0.0 </Min>
+      <Max> 76.0 </Max>
+      <Average> 7.178571428571429 </Average>
+   </Stat>
+   <Stat>
+      <Name> fatal_accidents_85_99 </Name>
+      <Min> 0.0 </Min>
+      <Max> 14.0 </Max>
+      <Average> 2.1785714285714284 </Average>
+   </Stat>
+   <Stat>
+      <Name> fatalities_85_99 </Name>
+      <Min> 0.0 </Min>
+      <Max> 535.0 </Max>
+      <Average> 112.41071428571429 </Average>
+   </Stat>
+   <Stat>
+      <Name> incidents_00_14 </Name>
+      <Min> 0.0 </Min>
+      <Max> 24.0 </Max>
+      <Average> 4.125 </Average>
+   </Stat>
+   <Stat>
+      <Name> fatal_accidents_00_14 </Name>
+      <Min> 0.0 </Min>
+      <Max> 3.0 </Max>
+      <Average> 0.6607142857142857 </Average>
+   </Stat>
+   <Stat>
+      <Name> fatalities_00_14 </Name>
+      <Min> 0.0 </Min>
+      <Max> 537.0 </Max>
+      <Average> 55.517857142857146 </Average>
+   </Stat>
+   <Stat>
+      <Name> avg_85_99 </Name>
+      <Min>  </Min>
+      <Max>  </Max>
+      <Average> 2.1785714285714284 </Average>
+   </Stat>
+   <Stat>
+      <Name> avg_00_14 </Name>
+      <Min>  </Min>
+      <Max>  </Max>
+      <Average> 0.6607142857142857 </Average>
+   </Stat>
+</Summary>
